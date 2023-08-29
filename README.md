@@ -8,4 +8,3 @@ only returns prayer times only for gombak, petaling, sepang, hulu langat, hulu s
 
 ### screenshot
 
-![Screenshot from 2023-08-29 22-21-24.png](..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202023-08-29%2022-21-24.png)
